@@ -57,7 +57,7 @@
             <plugin>
                 <groupId>maven</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>1.6.3</version>
+                <version>20030413.023708</version>
                 <configuration>
                     <attachClasses>true</attachClasses>
                     <webXml>target/web.xml</webXml>
